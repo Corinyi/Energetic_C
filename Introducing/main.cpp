@@ -22,5 +22,5 @@ int main(void){
  This project is for the effective studying
  'Energetic C Programming' wriiten by YounSeongWoo.
  
- Let's git it
+ Let's git it!!
  */
