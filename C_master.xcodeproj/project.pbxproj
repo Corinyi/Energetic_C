@@ -98,7 +98,7 @@
 		4911215A242355A6006ABF22 = {
 			isa = PBXGroup;
 			children = (
-				49112165242355A7006ABF22 /* c_master */,
+				49112165242355A7006ABF22 /* Introducing */,
 				4911217D242359D8006ABF22 /* 11-1-1 */,
 				49112172242356CD006ABF22 /* 11-1-2 */,
 				4911218C24235D55006ABF22 /* 11-2-1 */,
@@ -117,12 +117,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		49112165242355A7006ABF22 /* c_master */ = {
+		49112165242355A7006ABF22 /* Introducing */ = {
 			isa = PBXGroup;
 			children = (
 				49112166242355A7006ABF22 /* main.cpp */,
 			);
-			path = c_master;
+			name = Introducing;
+			path = "하지만";
 			sourceTree = "<group>";
 		};
 		49112172242356CD006ABF22 /* 11-1-2 */ = {

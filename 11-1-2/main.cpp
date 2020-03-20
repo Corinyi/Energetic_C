@@ -2,8 +2,8 @@
 //  main.cpp
 //  11-1-2
 //
-//  Created by 이윤서 on 2020/03/19.
-//  Copyright © 2020 LEEYOUNSEO. All rights reserved.
+//  Created by Corinyi on 2020/03/19.
+//  Copyright © 2020 Corinyi. All rights reserved.
 //
 
 #include <stdio.h>

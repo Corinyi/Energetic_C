@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  c_master
+//  Introducing
 //
 //  Created by Corinyi on 2020/03/19.
 //  Copyright © 2020 Corinyi. All rights reserved.
