@@ -9,7 +9,7 @@
 # include <stdio.h>
 
 int main(void){
-    char voca[30];
+    char voca[40];
     int len=0;
     int max=0;
     
@@ -27,7 +27,7 @@ int main(void){
     
     
     
-    printf("아스키 코드가 가장 큰 문자는: %c \n", max);
+    printf("아스키 코드가 가장 큰 문자는: %c \n아스키 코드 값은: %d \n", max,max);
     
     return 0;
 }
